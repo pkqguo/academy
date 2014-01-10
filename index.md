@@ -6,7 +6,7 @@ This website is an internal repository of research materials, including but not 
 
 Machine learning
 -----------------
-![](https://raw2.github.com/t0nyren/academy/master/images/ml-300x200.jpg)
+![](images/ml-300x200.jpg)
 
 * [Linear regression](ml/regression.md)
 * [SVM](ml/svm.md)
@@ -15,17 +15,23 @@ Machine learning
 * Projects
     * [Box office prediction](project/boxoffice.md) (票房预测）
 
-
 ----------
-
 
 Computer Vision
 ----------
-  ![](https://raw2.github.com/t0nyren/academy/master/images/cv-300x200.jpg)
+![](images/cv-300x200.jpg)
   
-  * list item 1
-  * list item 2
+* [Feature Engineer](cv/features.md)
+* [Representation](cv/representation.md)
+* [Indexing Techniques](cv/indexing.md)
+* [Face Detection](cv/face.md)
+* Projects
+   * [Similar image search](project/sise.md)
+   * [Web-Level Face Recognition](project/welfare.md)
 
-This is a hyperlink to [Google](http://google.com).
+----------
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
+Networking
+----------
+![](images/cv-300x200.jpg)
+* [P2P networks](networking/p2p.md)
