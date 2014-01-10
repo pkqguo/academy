@@ -6,7 +6,7 @@ This website is an internal repository of research materials, including but not 
 
 Machine learning
 -----------------
-![](https://raw2.github.com/t0nyren/academy/master/images/ml-300x200.jpg)
+![](images/ml-300x200.jpg)
 
 * [Linear regression](ml/regression.md)
 * [SVM](ml/svm.md)
@@ -21,7 +21,7 @@ Machine learning
 
 Computer Vision
 ----------
-  ![](https://raw2.github.com/t0nyren/academy/master/images/cv-300x200.jpg)
+  ![](images/cv-300x200.jpg)
   
   * list item 1
   * list item 2
