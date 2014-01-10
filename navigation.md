@@ -1,6 +1,7 @@
 # Academy
 
 [Research]()
+
   * # Machine Learning
   * [SVM](svm.md)
   * [Neural Networks](nnet.md)
@@ -13,7 +14,9 @@
   - - - -
   * # Networking
   * [P2P networks](p2p.md)
+
 [Development]()
+
   * # Frontend
   * [jquery](jquery.md)
   * [wordpress](wordpress.md)
@@ -24,5 +27,6 @@
   * # Tools
   * [Hadoop](hadoop.md)
   * [Cuda](cuda.md)
+
 [Resource](resource.md)
 [About](about.md)
