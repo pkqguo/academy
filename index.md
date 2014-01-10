@@ -33,5 +33,5 @@ Computer Vision
 
 Networking
 ----------
-![](images/cv-300x200.jpg)
+![](images/nw-300x200.jpg)
 * [P2P networks](networking/p2p.md)
