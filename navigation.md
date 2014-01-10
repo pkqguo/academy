@@ -5,6 +5,7 @@
   * # Machine Learning
   * [SVM](svm.md)
   * [Neural Networks](nnet.md)
+  * [Recommendation Systems](recsys.md)
   - - - -
   * # Computer Vision
   * [Feature extraction](features.md)
@@ -22,7 +23,7 @@
   * [wordpress](wordpress.md)
   - - - -
   * # Backend
-  * [Feature extraction](features.md)
+  * [openMP](openMP.md)
   - - - -
   * # Tools
   * [Hadoop](hadoop.md)
