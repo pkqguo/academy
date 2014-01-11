@@ -72,7 +72,7 @@ The most major difference between dense SIFT and traditional SIFT is that, with 
 **Papers:**
 Lowe, “*Distinctive image features from scale-invariant keypoints*”, IJCV’04.  [[view]](../files/ijcv04.pdf)
 
-A. Bosch, A. Zisserman, and X. Munoz. Image classifcation using random forests and ferns. In Proc. ICCV, 2007.
+A. Bosch, A. Zisserman, and X. Munoz. *Image classifcation using random forests and ferns*. In Proc. ICCV, 2007.
 
 
 ###FREAK
@@ -82,7 +82,7 @@ Fast Retina Keypoint (FREAK) is inspired by the human visual system and more pre
 
 
 **Papers:**
-A. Alahi, R. Ortiz, and P. Vandergheynst. FREAK: Fast Retina Keypoint. In CVPR, 2012. [[view]](../files/freak.pdf)
+A. Alahi, R. Ortiz, and P. Vandergheynst. *FREAK: Fast Retina Keypoint*. In CVPR, 2012. [[view]](../files/freak.pdf)
 
 ----------
 
@@ -92,8 +92,28 @@ Face Descriptors
 
 ###LBP
 
-**Papers:**
+The LBP feature vector, in its simplest form, is created in the following manner:
 
+ - Divide the examined window into cells (e.g. 16x16 pixels for each cell).
+ - For each pixel in a cell, compare the pixel to each of its 8 neighbors (on its left-top, left-middle, left-bottom, right-top, etc.). Follow the pixels along a circle, i.e. clockwise or counter-clockwise.
+ - Where the center pixel's value is greater than the neighbor's value, write "1". Otherwise, write "0". This gives an 8-digit binary number (which is usually converted to decimal for convenience).
+ - Compute the histogram, over the cell, of the frequency of each "number" occurring (i.e., each combination of which pixels are smaller and which are greater than the center).
+ - Optionally normalize the histogram.
+ - Concatenate (normalized) histograms of all cells. This gives the feature vector for the window.
+
+![lbp](../images/Lbp_neighbors.svg)
+
+####High dimensional LBP 
+**Papers:**
+D. Chen et al, *Blessing of Dimensionality: High-dimensional Feature and Its Efficient Compression for Face Verification*, CVPR 2013. [[view]](../files/HighDimFeature.pdf)
+
+####MRF-MLBP
+**Papers:**
+Shervin Rahimzadeh Arashloo and Josef Kittler. *Efficient Processing of MRFs for Unconstrained-Pose Face Recognition.* Biometrics: Theory, Applications and Systems, 2013.
+
+####LBP + CSML
+**Papers:**
+Hieu V. Nguyen and Li Bai. *Cosine Similarity Metric Learning for Face Verification.* Asian Conference on Computer Vision (ACCV), 2010.
 ###HOG
 
 **Papers:**
