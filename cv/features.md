@@ -101,7 +101,7 @@ The LBP feature vector, in its simplest form, is created in the following manner
  - Optionally normalize the histogram.
  - Concatenate (normalized) histograms of all cells. This gives the feature vector for the window.
 
-![lbp](../images/Lbp_neighbors.svg)
+![lbp](../images/400px-LBP.jpg)
 
 ####High dimensional LBP 
 **Papers:**
