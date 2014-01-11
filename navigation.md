@@ -12,6 +12,7 @@
   * [Reprentation](cv/representation.md)
   * [Indexing techniques](cv/indexes.md)
   * [Face detection and landmarking](cv/face.md)
+  * [Datasets](cv/datasets.md)
   - - - -
   * # Networking
   * [P2P networks](networking/p2p.md)
