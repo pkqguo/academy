@@ -2,17 +2,17 @@
 
 [Research]()
 
+  * # Computer Vision
+  * [Features and Descriptors](cv/features.md)
+  * [Reprentation](cv/representation.md)
+  * [Indexing](cv/indexes.md)
+  * [Face detection and landmarking](cv/face.md)
+  * [Datasets](cv/datasets.md)
+  - - - -
   * # Machine Learning
   * [SVM](ml/svm.md)
   * [Neural Networks](ml/nnet.md)
   * [Recommendation Systems](ml/recsys.md)
-  - - - -
-  * # Computer Vision
-  * [Feature extraction](cv/features.md)
-  * [Reprentation](cv/representation.md)
-  * [Indexing techniques](cv/indexes.md)
-  * [Face detection and landmarking](cv/face.md)
-  * [Datasets](cv/datasets.md)
   - - - -
   * # Networking
   * [P2P networks](networking/p2p.md)
@@ -33,7 +33,7 @@
 [Projects]()
 
   * # Machine Learning
-  * [Box office prediction](project/boxoffice.md)
+  * [票房预测](project/boxoffice.md)
   - - - -
   * # Computer Vision
   * [Similar Image Search](project/sise.md)
