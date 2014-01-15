@@ -5,7 +5,7 @@
   * # Computer Vision
   * [Features and Descriptors](cv/features.md)
   * [Reprentation](cv/representation.md)
-  * [Indexing](cv/indexes.md)
+  * [Indexing](cv/indexing.md)
   * [Face detection and landmarking](cv/face.md)
   * [Datasets](cv/datasets.md)
   - - - -
