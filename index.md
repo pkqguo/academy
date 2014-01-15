@@ -16,13 +16,13 @@ Computer Vision
 ----------
 ![](images/cv-300x200.jpg)
   
-* [Feature Engineer](cv/features.md)
-* [Representation](cv/representation.md)
-* [Indexing Techniques](cv/indexing.md)
-* [Face Detection](cv/face.md)
+* [Feature Extraction](cv/features.md) - 特征提取
+* [Representation](cv/representation.md) - 特征表述
+* [Indexing Techniques](cv/indexing.md) - 搜索技巧
+* [Face Detection](cv/face.md) - 人脸检测
 * Projects
-   * [Similar image search](project/sise.md)
-   * [Web-Level Face Recognition](project/welfare.md)
+   * [Similar image search](project/sise.md) -近似图片搜索
+   * [Web-Level Face Recognition](project/welfare.md) -人脸识别
    
 ----------
 
@@ -35,7 +35,7 @@ Machine learning
 * [Neural Networks](ml/nnet.md)
 * [Deep learning](ml/deeplearning.md)
 * Projects
-    * [Box office prediction](project/boxoffice.md) (票房预测）
+    * [票房预测](project/boxoffice.md)
 
 ----------
 
