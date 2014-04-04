@@ -2,7 +2,7 @@ Academy
 =======
 
 
-This website is an internal repository of research materials, including study notes, slides, papers, codes and projects.
+Hi, This website is an internal repository of research materials, including study notes, slides, papers, codes and projects.
 "Academy" is implemented with pure html and markdown, and can be simply hosted by a http server.
 
 Feel free to clone it at https://github.com/t0nyren/academy.git
