@@ -1,4 +1,4 @@
-# Academy
+# Home
 
 [Research]()
 
@@ -32,12 +32,12 @@
 
 [Projects]()
 
-  * # Machine Learning
-  * [票房预测](project/boxoffice.md)
-  - - - -
   * # Computer Vision
   * [Similar Image Search](project/sise.md)
   * [Web-Level Face Recognition](project/welfare.md)
+  - - - -
+  * # Machine Learning
+  * [票房预测](project/boxoffice.md)
   - - - -
   * # Competetions
   * [Labeled Face in the Wild](project/lfw.md)
